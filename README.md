@@ -1,6 +1,6 @@
 # Task Management Assesment
 
-A simple and responsive Task Management application that helps users manage their daily tasks efficiently. Users can add, edit, complete, and delete tasks from their personal task list.
+A responsive Task Management application that helps users manage their daily tasks efficiently. Users can add, edit, complete, and delete tasks from their personal task list.
 
 # Features
 
